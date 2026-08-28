@@ -1,0 +1,13 @@
+LIVE PROJECT LINKS TO ADD
+
+The portfolio already includes the five project screenshots and separate GitHub links.
+The GitHub pages supplied in the conversation did not expose the deployment/homepage URLs,
+so the Live Project buttons are intentionally disabled instead of pointing to guessed URLs.
+
+PlantCare:
+Talkivo:
+EventEase:
+NeuroBrief:
+Banking Data Analytics Dashboard:
+
+Once these five URLs are supplied, the image itself can also be made to open the corresponding live project.
